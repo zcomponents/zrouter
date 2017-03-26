@@ -1,6 +1,6 @@
 {
   "name": "zrouter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,10 @@
     "url": "https://github.com/sergej-kucharev/zrouter/issues"
   },
   "homepage": "https://github.com/sergej-kucharev/zrouter#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "zrequest": "latest",
+    "zresponse": "latest",
+    "ztype": "latest"
+  }
 }
