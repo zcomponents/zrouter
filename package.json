@@ -17,8 +17,15 @@
   "homepage": "https://github.com/sergej-kucharev/zrouter#readme",
   "description": "",
   "dependencies": {
+    "zasyncfunctionscope": "^1.0.6",
     "zrequest": "latest",
     "zresponse": "latest",
+    "zscope": "^1.0.8",
     "ztype": "latest"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.0.5"
   }
 }
